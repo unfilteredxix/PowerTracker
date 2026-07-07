@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-**[Try it here](https://kpt-manage-accordion.netlify.app)** — See the app in action. Log in with any four-digit PIN to explore both kid and parent modes.
+**[Try it here](https://kpt-manage-accordion.netlify.app)** — See the app in action. Log in with any four-digit PIN(1234 default) to explore both kid and parent modes.
 
 ---
 
